@@ -23,7 +23,7 @@ Implementar funções para analisar um conjunto de dados sobre empregos. Os dado
 
 **Tecnologia utilizada**
 
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" height="35" align="center"/> - Python</a> 
+- <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" height="35" align="center"/> - Python</a> 
 
 ---
 
