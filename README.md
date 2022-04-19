@@ -4,7 +4,7 @@
 
 **Contexto**
 
-No bloco desse projeto damos nossos primeiros passos com a linguagem de programação Python. Começando por sua instalação e configuração do ambiente de desenvolvimento, seguido por sua sintaxe, diferentes tipos de variáveis, métodos e principais funções. Entre as funções vistas, estão as utilizadas para leitura e manipulação de arquivos JSON e CSV que serão necessárias nesse projeto.
+No bloco desse projeto damos nossos primeiros passos com a linguagem de programação Python. Começamos pela instalação e configuração do ambiente de desenvolvimento, depois para a compreensão de sua sintaxe, diferentes tipos de variáveis, métodos e principais funções. Entre as funções vistas estão as utilizadas para leitura e manipulação de arquivos JSON e CSV que serão necessárias nesse projeto.
 
 **Objetivo do projeto**
 
