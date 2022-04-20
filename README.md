@@ -1,6 +1,6 @@
 ## Projeto Job Insights
 
-> Primeiro projeto do módulo de Ciência da Computação do curso de desenvolvimento web da Trybe.
+> Primeiro projeto do módulo de Ciência da Computação do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/)
 
 **Contexto**
 
@@ -151,3 +151,7 @@ Para fechar com chave de ouro, que tal testar o quanto você aprendeu de Flask a
 - A função deve renderizar o template `job.jinja2`, passando um parâmetro `job` contendo o job retornado pela `get_job`.
 
 ✍️ Teste manual: após criar a view, cheque se, na página que lista os jobs, aparecem links para jobs específicos nos números que identificam cada job. Ao clicar em um destes links, você deve ser levado a uma página que lista todas as informações do job.
+
+---
+
+[Ir para a lista de projetos](https://github.com/willian-prado/trybe-records)
